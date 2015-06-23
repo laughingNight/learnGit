@@ -8,3 +8,5 @@ this is stash test
 =======
 test stash
 >>>>>>> Stashed changes
+
+test commit
